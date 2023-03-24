@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pokemon-api-weekend-hw/static/css/main.c10a4797.css",
+    "main.js": "/Pokemon-api-weekend-hw/static/js/main.6509838d.js",
+    "static/js/787.431114a6.chunk.js": "/Pokemon-api-weekend-hw/static/js/787.431114a6.chunk.js",
+    "index.html": "/Pokemon-api-weekend-hw/index.html",
+    "main.c10a4797.css.map": "/Pokemon-api-weekend-hw/static/css/main.c10a4797.css.map",
+    "main.6509838d.js.map": "/Pokemon-api-weekend-hw/static/js/main.6509838d.js.map",
+    "787.431114a6.chunk.js.map": "/Pokemon-api-weekend-hw/static/js/787.431114a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10a4797.css",
+    "static/js/main.6509838d.js"
+  ]
+}
