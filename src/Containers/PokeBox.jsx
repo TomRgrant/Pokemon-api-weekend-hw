@@ -46,14 +46,14 @@ const PokeBox = () => {
         document.getElementById("guess-form").reset();
     }
 
-    const guessPokemon = (event, selectedPokemon) => {
+    const guessPokemon = (event) => {
         event.preventDefault();
-      if (event.target.pokemonGuess.value == selectedPokemon.name) {
+      if (event.target.pokemonGuess.value === selectedPokemon.name) {
             setCorrectGuess(true)
-            document.getElementById("guess-form").reset();
+            event.target.reset();
         return console.log("Woooooooooooo");
       }
-      document.getElementById("guess-form").reset();
+      event.target.reset();
     }
 
     return (
